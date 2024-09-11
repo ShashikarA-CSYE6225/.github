@@ -1,7 +1,3 @@
-Here's a README file you can use for your project based on the content you provided:
-
----
-
 # Cloud Web Application Project Overview
 
 This project is a comprehensive demonstration of cloud application development and deployment, emphasizing robust security, availability, and scalability.
